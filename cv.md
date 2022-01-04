@@ -13,6 +13,12 @@
 
 I am 25 years old men. My main goal is to gain new skills and knowledge in order to become a strong Fortend developer.
 
+## Skills
+
+* HTML
+* CSS
+* JavaScript (Basic)
+* Git
 
 ## Code examples
 
