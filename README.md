@@ -1,1 +1,1 @@
-https://andreishykalai.github.io/rsschool-cv/ <br> https://andreishykalai.github.io/rsschool-cv/
+https://andreishykalai.github.io/rsschool-cv/ <br> https://andreishykalai.github.io/rsschool-cv//
