@@ -9,7 +9,9 @@
 
 * GitHub: andreishykalai
 
+## About me
 
+I am 25 years old men. My main goal is to gain new skills and knowledge in order to become a strong Fortend developer.
 
 
 ## Code examples
